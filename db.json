@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Jayanth",
+      "phone": 6302292730,
+      "dob": "30/04/2002",
+      "degree": "B.Tech",
+      "stream": "CSE",
+      "percentage": "95",
+      "yop": 2024
+    },
+    {
+      "id": "4",
+      "name": "vamshiii",
+      "phone": 8500163934,
+      "dob": "2024-09-18",
+      "degree": "B.Tech",
+      "stream": "CSE",
+      "percentage": "71",
+      "yop": 2024
+    },
+    {
+      "id": "163c",
+      "name": "poola chukka",
+      "phone": 4561237892,
+      "dob": "2024-09-06",
+      "degree": "10th fail",
+      "stream": "CIVIL",
+      "percentage": "69",
+      "yop": 2024
+    },
+    {
+      "id": "15cb",
+      "name": "Harshith",
+      "phone": 7993894331,
+      "dob": "2001-11-01",
+      "degree": "BTech",
+      "stream": "ECE",
+      "percentage": 69,
+      "yop": 2024
+    }
+  ]
+}
